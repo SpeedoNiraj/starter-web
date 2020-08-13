@@ -9,4 +9,4 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-This is a introduction to GitHub
+This is a introduction to GitHub. Welcome
